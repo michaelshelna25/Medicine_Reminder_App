@@ -58,10 +58,12 @@ For Software:
   Delete Reminder → DELETE /api/reminders/<id>
 
 # Screenshots (Add at least 3)
+![ss](https://github.com/user-attachments/assets/01a2d807-804e-4bdc-8758-f2cb612c1a3a)
 
 
 
 # Build Photos
+![team_pic](https://github.com/user-attachments/assets/8617ebb2-aef7-4d97-aa62-2449cbb36bb1)
 
 
 
