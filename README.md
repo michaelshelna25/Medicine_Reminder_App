@@ -62,7 +62,7 @@ For Software:
 
 
 
-# Build Photos
+# team pic
 ![team_pic](https://github.com/user-attachments/assets/8617ebb2-aef7-4d97-aa62-2449cbb36bb1)
 
 
