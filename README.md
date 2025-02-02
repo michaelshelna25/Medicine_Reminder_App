@@ -58,32 +58,20 @@ For Software:
   Delete Reminder → DELETE /api/reminders/<id>
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 
 
 # Build Photos
-![Team](Add photo of your team here)
 
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- [Name 1]: 
 NITHYA K UNNI - VJEC
 - Member 2: NAYANA K S - VJEC
 
