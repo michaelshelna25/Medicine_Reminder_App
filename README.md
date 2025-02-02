@@ -57,7 +57,7 @@ For Software:
   Add Reminder → POST /api/reminders (JSON required)
   Delete Reminder → DELETE /api/reminders/<id>
 
-# Screenshots (Add at least 3)
+# Screenshot (Add at least 3)
 ![ss](https://github.com/user-attachments/assets/01a2d807-804e-4bdc-8758-f2cb612c1a3a)
 
 
